@@ -55,3 +55,7 @@ The goal of this project is to:
   `.Access (Peek)`	O(1)	O(1)	Peek operations directly access the top (Stack) or front (Queue) element without traversing the list.
   
 The use of Linked List ensures that all operations are performed in constant time by maintaining pointers to the head (and tail for Queue).
+
+# Linkdin Post:
+https://www.linkedin.com/posts/m-hamza-khan-safi-191785326_tech-coding-problemsolving-activity-7286459473093701635-V9_J?utm_source=share&utm_medium=member_android
+
